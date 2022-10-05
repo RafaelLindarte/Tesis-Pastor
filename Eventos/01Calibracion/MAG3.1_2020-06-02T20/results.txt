@@ -1,4 +1,4 @@
-Resultados evento -> MAG3.3_2020-06-11T11
+Resultados evento -> MAG3.1_2020-06-02T20
 ONDA P LTA Promedio
 
 lta_prom_X:667.000000

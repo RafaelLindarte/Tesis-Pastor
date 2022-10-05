@@ -1,58 +1,56 @@
 Resultados evento -> MAG3.4_2020-05-18T02
-ONDA P Deltas
+ONDA P LTA Promedio
 
-lta_prom_X:431.000000
-lta_prom_Y:224.000000
-lta_prom_Z:644.000000
-sta_prom_X:117        Delta: -314        sta_prom_Y:168        Delta: -56        sta_prom_Z:289        Delta:-355
-sta_prom_X:206        Delta: -225        sta_prom_Y:111        Delta: -113       sta_prom_Z:281        Delta:-363
-sta_prom_X:88        Delta: -343         sta_prom_Y:1002        Delta: 778       sta_prom_Z:287        Delta:-357
-sta_prom_X:173        Delta: -258        sta_prom_Y:49        Delta: -175        sta_prom_Z:251        Delta:-393
-sta_prom_X:403        Delta: -28         sta_prom_Y: 6        Delta: -218        sta_prom_Z:382        Delta:-262
-sta_prom_X:269        Delta: -162        sta_prom_Y:111        Delta: -113       sta_prom_Z:476        Delta:-168
-sta_prom_X:254        Delta: -177        sta_prom_Y:43        Delta: -181        sta_prom_Z:486        Delta:-158
-sta_prom_X:436        Delta:  5          sta_prom_Y:206        Delta: -18        sta_prom_Z:557        Delta:-87
-sta_prom_X:152        Delta: -279        sta_prom_Y:176        Delta: -48        sta_prom_Z:399        Delta:-245
-sta_prom_X:361        Delta: -70         sta_prom_Y:293        Delta: 69         sta_prom_Z:83        Delta:-561
-
-ONDA P Ratio
-
-STA/LTA X:0.271462,Y:0.750000,Z:0.448758
-STA/LTA X:0.477958,Y:0.495536,Z:0.436335
-STA/LTA X:0.204176,Y:4.473214,Z:0.445652
-STA/LTA X:0.401392,Y:0.218750,Z:0.389752
-STA/LTA X:0.935035,Y:0.026786,Z:0.593168
-STA/LTA X:0.624130,Y:0.495536,Z:0.739130
-STA/LTA X:0.589327,Y:0.191964,Z:0.754658
-STA/LTA X:1.011601,Y:0.919643,Z:0.864907
-STA/LTA X:0.352668,Y:0.785714,Z:0.619565
-STA/LTA X:0.837587,Y:1.308036,Z:0.128882
-
-ONDA S Deltas
-
-lta_prom_X:817.000000
-lta_prom_Y:175.000000
-lta_prom_Z:781.000000
-sta_prom_X:173        Delta: -644        sta_prom_Y:27        Delta: -148        sta_prom_Z:357        Delta:-424
-sta_prom_X:205        Delta: -612        sta_prom_Y:101        Delta: -74        sta_prom_Z:327        Delta:-454
-sta_prom_X:508        Delta: -309        sta_prom_Y:44        Delta: -131        sta_prom_Z:315        Delta:-466
-sta_prom_X:277        Delta: -540        sta_prom_Y:16        Delta: -159        sta_prom_Z:221        Delta:-560
-sta_prom_X:472        Delta: -345        sta_prom_Y:108        Delta: -67        sta_prom_Z:401        Delta:-380
-sta_prom_X:314        Delta: -503        sta_prom_Y:112        Delta: -63        sta_prom_Z:281        Delta:-500
-sta_prom_X:506        Delta: -311        sta_prom_Y:183        Delta:  8         sta_prom_Z:327        Delta:-454
-sta_prom_X:653        Delta: -164        sta_prom_Y:306        Delta: 131        sta_prom_Z:409        Delta:-372
-sta_prom_X:978        Delta: 161         sta_prom_Y:555        Delta: 380        sta_prom_Z:840        Delta:59
-sta_prom_X:352        Delta: -465        sta_prom_Y:634        Delta: 459        sta_prom_Z:4542        Delta:3761
-
-ONDA S Ratio
-
-STA/LTA X:0.211750,Y:0.154286,Z:0.457106
-STA/LTA X:0.250918,Y:0.577143,Z:0.418694
-STA/LTA X:0.621787,Y:0.251429,Z:0.403329
-STA/LTA X:0.339045,Y:0.091429,Z:0.282971
-STA/LTA X:0.577723,Y:0.617143,Z:0.513444
-STA/LTA X:0.384333,Y:0.640000,Z:0.359795
-STA/LTA X:0.619339,Y:1.045714,Z:0.418694
-STA/LTA X:0.799266,Y:1.748571,Z:0.523688
-STA/LTA X:1.197062,Y:3.171429,Z:1.075544
-STA/LTA X:0.430845,Y:3.622857,Z:5.815621
+lta_prom_X:931.000000
+lta_prom_Y:887.000000
+lta_prom_Z:789.000000
+STA/LTA X:0.381310,Y:0.045096,Z:0.259823
+STA/LTA X:0.359828,Y:0.081172,Z:0.250951
+STA/LTA X:0.334049,Y:0.148816,Z:0.235741
+STA/LTA X:0.314715,Y:0.210823,Z:0.306717
+STA/LTA X:0.335124,Y:0.202931,Z:0.338403
+STA/LTA X:0.317938,Y:0.205186,Z:0.307985
+STA/LTA X:0.319012,Y:0.172492,Z:0.225602
+STA/LTA X:0.270677,Y:0.153326,Z:0.174905
+STA/LTA X:0.269603,Y:0.121759,Z:0.131812
+STA/LTA X:0.266380,Y:0.127396,Z:0.158428
+STA/LTA X:0.262084,Y:0.119504,Z:0.238276
+STA/LTA X:0.228786,Y:0.101466,Z:0.315589
+STA/LTA X:0.248120,Y:0.101466,Z:0.320659
+STA/LTA X:0.340494,Y:0.102593,Z:0.275032
+STA/LTA X:0.401719,Y:0.087937,Z:0.220532
+STA/LTA X:0.437164,Y:0.090192,Z:0.264892
+STA/LTA X:0.415682,Y:0.085682,Z:0.306717
+STA/LTA X:0.399570,Y:0.074408,Z:0.297845
+STA/LTA X:0.303974,Y:0.114994,Z:0.220532
+STA/LTA X:0.303974,Y:0.076663,Z:0.216730
+STA/LTA X:0.356606,Y:0.089064,Z:0.256020
+STA/LTA X:0.403867,Y:0.145434,Z:0.219265
+STA/LTA X:0.363050,Y:0.257046,Z:0.283904
+STA/LTA X:0.266380,Y:0.257046,Z:0.339670
+STA/LTA X:0.270677,Y:0.186020,Z:0.292776
+STA/LTA X:0.258861,Y:0.108230,Z:0.206591
+STA/LTA X:0.278195,Y:0.126268,Z:0.187579
+STA/LTA X:0.229860,Y:0.119504,Z:0.264892
+STA/LTA X:0.276047,Y:0.128523,Z:0.295311
+STA/LTA X:0.267454,Y:0.125141,Z:0.365019
+STA/LTA X:0.232009,Y:0.144307,Z:0.376426
+STA/LTA X:0.216971,Y:0.095829,Z:0.339670
+STA/LTA X:0.222342,Y:0.091319,Z:0.368821
+STA/LTA X:0.314715,Y:0.068771,Z:0.323194
+STA/LTA X:0.346939,Y:0.073281,Z:0.291508
+STA/LTA X:0.303974,Y:0.087937,Z:0.353612
+STA/LTA X:0.233083,Y:0.117249,Z:0.325729
+STA/LTA X:0.184748,Y:0.126268,Z:0.321926
+STA/LTA X:0.194415,Y:0.166855,Z:0.372624
+STA/LTA X:0.181525,Y:0.177001,Z:0.392902
+STA/LTA X:0.131042,Y:0.177001,Z:0.358682
+STA/LTA X:0.167562,Y:0.191657,Z:0.411914
+STA/LTA X:0.232009,Y:0.136415,Z:0.378961
+STA/LTA X:0.197637,Y:0.133033,Z:0.306717
+STA/LTA X:2.164339,Y:8.113867,Z:0.373891
+STA/LTA X:1.825994,Y:4.130778,Z:0.363752
+STA/LTA X:2.074114,Y:2.339346,Z:3.487959
+STA/LTA X:1.998926,Y:2.514092,Z:3.693283
+STA/LTA X:2.212675,Y:1.348365,Z:2.855513
+STA/LTA X:0.891515,Y:1.142052,Z:2.574144
