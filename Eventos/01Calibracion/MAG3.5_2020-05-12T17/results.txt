@@ -1,0 +1,58 @@
+Resultados evento -> MAG3.5_2020-05-12T17
+ONDA P Deltas
+
+lta_prom_X:934.000000
+lta_prom_Y:249.000000
+lta_prom_Z:292.000000
+sta_prom_X:450        Delta: -484        sta_prom_Y:136        Delta: -113       sta_prom_Z:158        Delta:-134
+sta_prom_X:235        Delta: -699        sta_prom_Y:1007        Delta: 758       sta_prom_Z:165        Delta:-127
+sta_prom_X:283        Delta: -651        sta_prom_Y:167        Delta: -82        sta_prom_Z:60        Delta:-232
+sta_prom_X:276        Delta: -658        sta_prom_Y:202        Delta: -47        sta_prom_Z:191        Delta:-101
+sta_prom_X:223        Delta: -711        sta_prom_Y:209        Delta: -40        sta_prom_Z:197        Delta:-95
+sta_prom_X:197        Delta: -737        sta_prom_Y:192        Delta: -57        sta_prom_Z:232        Delta:-60
+sta_prom_X:586        Delta: -348        sta_prom_Y:177        Delta: -72        sta_prom_Z:138        Delta:-154
+sta_prom_X:654        Delta: -280        sta_prom_Y:165        Delta: -84        sta_prom_Z:103        Delta:-189
+sta_prom_X:335        Delta: -599        sta_prom_Y:179        Delta: -70        sta_prom_Z:149        Delta:-143
+sta_prom_X:592        Delta: -342        sta_prom_Y:61        Delta: -188        sta_prom_Z:102        Delta:-190
+
+ONDA P Ratio
+
+STA/LTA X:0.481799,Y:0.546185,Z:0.541096
+STA/LTA X:0.251606,Y:4.044177,Z:0.565068
+STA/LTA X:0.302998,Y:0.670683,Z:0.205479
+STA/LTA X:0.295503,Y:0.811245,Z:0.654110
+STA/LTA X:0.238758,Y:0.839357,Z:0.674658
+STA/LTA X:0.210921,Y:0.771084,Z:0.794521
+STA/LTA X:0.627409,Y:0.710843,Z:0.472603
+STA/LTA X:0.700214,Y:0.662651,Z:0.352740
+STA/LTA X:0.358672,Y:0.718876,Z:0.510274
+STA/LTA X:0.633833,Y:0.244980,Z:0.349315
+
+ONDA S Deltas
+
+lta_prom_X:1360.000000
+lta_prom_Y:283.000000
+lta_prom_Z:245.000000
+sta_prom_X:673        Delta: -687        sta_prom_Y:80        Delta: -203        sta_prom_Z:155        Delta:-90
+sta_prom_X:351        Delta: -1009       sta_prom_Y:412        Delta: 129        sta_prom_Z:168        Delta:-77
+sta_prom_X:662        Delta: -698        sta_prom_Y:216        Delta: -67        sta_prom_Z: 0        Delta:-245
+sta_prom_X:661        Delta: -699        sta_prom_Y:73        Delta: -210        sta_prom_Z:134        Delta:-111
+sta_prom_X:585        Delta: -775        sta_prom_Y:148        Delta: -135       sta_prom_Z:87        Delta:-158
+sta_prom_X:685        Delta: -675        sta_prom_Y:182        Delta: -101       sta_prom_Z:105        Delta:-140
+sta_prom_X:533        Delta: -827        sta_prom_Y:258        Delta: -25        sta_prom_Z:221        Delta:-24
+sta_prom_X:2253        Delta: 893        sta_prom_Y:141        Delta: -142       sta_prom_Z:1593        Delta:1348
+sta_prom_X:2779        Delta: 1419       sta_prom_Y:292        Delta:  9         sta_prom_Z:5651        Delta:5406
+sta_prom_X:1451        Delta: 91         sta_prom_Y:251        Delta: -32        sta_prom_Z:3223        Delta:2978
+
+ONDA S Ratio
+
+STA/LTA X:0.494853,Y:0.282686,Z:0.632653
+STA/LTA X:0.258088,Y:1.455830,Z:0.685714
+STA/LTA X:0.486765,Y:0.763251,Z:0.000000
+STA/LTA X:0.486029,Y:0.257951,Z:0.546939
+STA/LTA X:0.430147,Y:0.522968,Z:0.355102
+STA/LTA X:0.503676,Y:0.643110,Z:0.428571
+STA/LTA X:0.391912,Y:0.911661,Z:0.902041
+STA/LTA X:1.656618,Y:0.498233,Z:6.502041
+STA/LTA X:2.043382,Y:1.031802,Z:23.065306
+STA/LTA X:1.066912,Y:0.886926,Z:13.155102
